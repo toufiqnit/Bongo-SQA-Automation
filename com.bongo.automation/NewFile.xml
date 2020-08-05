@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Bongo Test">
+
+	<test name="Bongo Test">
+		<classes>
+		
+			 <class name="com.bongo.automation.test.bongoTest" />
+			 
+
+		</classes>
+	</test>
+
+</suite>  	
